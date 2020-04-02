@@ -2,6 +2,7 @@
 # Set loop counter and result variable, can be the same variable in this case
 num = 1
 
+# Logic
 while num <= 10:
     print(num)
     num += 1
